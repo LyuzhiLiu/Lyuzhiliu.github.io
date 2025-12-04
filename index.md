@@ -41,7 +41,7 @@ conditionals, loops, and writing functions. Below are two of my favorite labs.
 Here is a screenshot from one of my CPSC 120 labs (Hello World running in the
 terminal):
 
-![Hello World Terminal](images/hello\ word.jpeg)
+![Hello World Terminal](images/hello%20word.jpeg)
 
 ---
 
